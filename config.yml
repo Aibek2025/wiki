@@ -1,0 +1,13 @@
+port: 10000
+
+db:
+  type: postgres
+  host: dpg-cvhnsc3tq21c73flugl0-a
+  port: 5432
+  user: wikijs_user
+  pass: FPV6x7wSqliJoAxjMbHfcx8FOSsLyMen
+  db: <wikijs_db_axgl
+  ssl:
+    rejectUnauthorized: false
+
+setup: false
