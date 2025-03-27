@@ -6,7 +6,7 @@ db:
   port: 5432
   user: wikijs_user
   pass: FPV6x7wSqliJoAxjMbHfcx8FOSsLyMen
-  db: <wikijs_db_axgl
+  db: wikijs_db_axgl
   ssl:
     rejectUnauthorized: false
 
